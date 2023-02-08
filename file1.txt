@@ -2,3 +2,4 @@ modifying file1
 modifying file1
 
 
+modifying conflict-manual
